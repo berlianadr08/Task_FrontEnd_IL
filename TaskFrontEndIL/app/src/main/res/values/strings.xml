@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Task Front End IL</string>
+    <string name="placeholder_search">Cari minuman favoritmu!</string>
+    <string name="section_menu">Pilihan Menu</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Keranjang</string>
+    <string name="menu_profile">Profile</string>
+    <string name="minus_symbol">—</string>
+    <string name="plus_symbol">＋</string>
+    <string name="back">Back</string>
+
+</resources>
